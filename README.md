@@ -50,7 +50,7 @@ I’d love to work on:
 Here are some of the things I’m working on:
 
 - 🎨 **Portfolio Website** – A responsive personal portfolio showcasing my projects.
-- 🛒 **Mini E-Commerce App** – Built with vanilla JS and CSS Grid.
+
 - 📊 **Data Dashboard** – Responsive dashboard UI with HTML/CSS/JS.
 
 > *You can find all my projects pinned below or under the Repositories tab.*
