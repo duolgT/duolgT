@@ -1,69 +1,109 @@
-<!-- GitHub Profile README Template - Personalized for Duol Daniel -->
+# 👋 Hey, I'm Duol Daniel Gatbel
 
-<h1 align="center">Hi there 👋, I'm Duol Daniel</h1>
-<h3 align="center">💻 Frontend Developer | 🚀 ALX Learner | 🎯 Passionate about building impactful digital solutions</h3>
+### 💻 Frontend Developer | React.js | JavaScript | UI/UX Enthusiast
+
+Welcome to my GitHub! I'm a frontend developer passionate about turning ideas into
+clean, responsive, and user-friendly digital experiences.
+
+I enjoy building practical projects, solving problems through code, and continuously
+learning modern web technologies.
+
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer focused on **React.js and JavaScript**
+- 🎓 Certificate in **Front-End Development — ALX Africa**
+- 🌱 Currently strengthening my skills in **React, UI/UX, and modern web development**
+- 🎨 Interested in **UI/UX Design and accessible digital experiences**
+- 🧩 I enjoy building projects that solve real-world problems
+- 📚 Always learning, experimenting, and improving
+- 🤝 Open to collaborating on interesting projects
+- 🎯 Goal: Grow into a strong **Frontend / Full-Stack Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my skills, projects, experience,
+and journey as a frontend developer.
+
+**Built with:**
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Vite
+
+🔗 [View Portfolio](YOUR_PORTFOLIO_LINK)
+
+---
+
+### 💼 Job Application Tracker
+
+A React application for managing and tracking job applications.
+
+**Features:**
+- Add job applications
+- Edit applications
+- Delete applications
+- Search jobs
+- Filter by application status
+- Track application dates
+
+**Built with:**
+- React.js
+- JavaScript
+- CSS
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Lifelong+Learner;Tech+Explorer;Open+Source+Enthusiast&center=true&width=500&height=40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🌱 About Me
+## 🔥 Contribution Streak
 
-I am a dedicated **Frontend Developer** currently learning at **ALX**. My journey into software engineering began because **I wanted to solve real problems in my community using technology**.
-
-What inspires me every day is **watching ideas turn into actual products that help people**, and I’m passionate about **creating user-friendly, accessible websites**.
-
----
-
-## 🎯 My Vision
-
-My goal is to **become a full-stack developer who contributes to impactful global projects**. To get there, I focus on continuous learning, building real-world applications, and contributing to open-source communities.
-
-I’d love to work on:
-- 📚 **E-learning platforms**
-- 📱 **Mobile-first apps**
-- 🌍 **Community-based tools**
-
----
-
-## 🧠 What I’m Learning
-
-- HTML, CSS, JavaScript
-- Responsive design & accessibility
-- Git & GitHub collaboration
-- Frameworks (React is next on my roadmap)
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📂 Projects Showcase
+## 📈 My Developer Journey
 
-Here are some of the things I’m working on:
-
-- 🎨 **Portfolio Website** – A responsive personal portfolio showcasing my projects.
-- Hotel-bookig-website**  - A responsive website for booking hotels from a website 
-- 
-
-> *You can find all my projects pinned below or under the Repositories tab.*
-
----
-
-## 🤝 Let’s Connect
-
-I love to meet fellow developers and collaborators!
-
-
-
-- 📫 Email: duolkuach100@gamil.com
-
-
-
+```text
+HTML & CSS
+     ↓
+JavaScript
+     ↓
+React.js
+     ↓
+Building Real-World Projects
+     ↓
+UI/UX & Accessibility
+     ↓
+Full-Stack Development 🚀
