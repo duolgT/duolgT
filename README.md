@@ -51,7 +51,7 @@ Here are some of the things I’m working on:
 
 - 🎨 **Portfolio Website** – A responsive personal portfolio showcasing my projects.
 - Hotel-bookig-website**  - A responsive website for booking hotels from a website 
-- 📊 **Data Dashboard** – Responsive dashboard UI with HTML/CSS/JS.
+- 
 
 > *You can find all my projects pinned below or under the Repositories tab.*
 
