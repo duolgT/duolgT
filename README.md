@@ -18,7 +18,6 @@ I’m interested in using technology to solve real-world problems and create use
 * 📊 Developing my skills in **Data Analytics**
 * ☁️ AWS Cloud Practitioner
 * 🔧 Using **Git and GitHub** for version control and collaboration
-* 🚀 Currently developing my foundation in **Data Engineering**
 * 📚 Always learning through practical projects and hands-on exercises
 
 ---
